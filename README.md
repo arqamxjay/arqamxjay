@@ -5,9 +5,9 @@ I'm Arqam
 I am a Technical Lead & AI Engineering Enthusiast and a UI/UX Designer with 2+ years of experience. I focus on building accessible AI solutions and empowering developers through technical mentorship.
 
 🚀 What I'm working on
-- AI Implementation:** Developing automation frameworks shared via ArqamAI.
-- Tech Consulting:** Creating micro-internship programs to bridge the industry gap.
-- Skill Development:** Pursuing **Microsoft Learn** certifications in AI Engineering.
+- AI Implementation: Developing automation frameworks shared via ArqamAI.
+- Tech Consulting: Creating micro-internship programs to bridge the industry gap.
+- Skill Development: Pursuing **Microsoft Learn** certifications in AI Engineering.
 
  🎨 Design & Tech Stack
 - Design: Figma, WEBFLOW (UI/UX Strategy & Prototyping)
